@@ -1,3 +1,3 @@
-## This is a Razorpay Clone made using Tailwindcss
+## This project is a Razorpay Clone made using Tailwindcss
 
-Live at: 
+Live at: https://razorpay-clone-tw.netlify.app/
